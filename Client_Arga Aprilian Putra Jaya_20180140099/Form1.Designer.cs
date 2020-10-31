@@ -38,7 +38,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(375, 69);
+            this.label1.Location = new System.Drawing.Point(364, 41);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(51, 20);
             this.label1.TabIndex = 0;
@@ -47,7 +47,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(375, 128);
+            this.label2.Location = new System.Drawing.Point(364, 109);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(51, 20);
             this.label2.TabIndex = 1;
@@ -56,7 +56,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(375, 198);
+            this.label3.Location = new System.Drawing.Point(364, 168);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(51, 20);
             this.label3.TabIndex = 2;
@@ -64,21 +64,23 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(225, 270);
+            this.button1.Location = new System.Drawing.Point(234, 250);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 38);
+            this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 3;
             this.button1.Text = "ON";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(490, 270);
+            this.button2.Location = new System.Drawing.Point(483, 250);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 38);
+            this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 4;
             this.button2.Text = "OFF";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // Form1
             // 
