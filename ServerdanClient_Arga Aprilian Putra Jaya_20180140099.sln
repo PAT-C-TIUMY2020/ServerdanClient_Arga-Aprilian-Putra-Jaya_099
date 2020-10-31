@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Arga Aprilian Putra Jaya_20180140099", "ServerdanClient_Arga Aprilian Putra Jaya_20180140099\Client_Arga Aprilian Putra Jaya_20180140099.csproj", "{45B33C55-6D0B-4A0F-AA5A-288366F54DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Arga Aprilian Putra Jaya_20180140099", "Client_Arga Aprilian Putra Jaya_20180140099\Server_Arga Aprilian Putra Jaya_20180140099.csproj", "{4C1D6BD2-8422-4259-A57D-6B35E451426E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B33C55-6D0B-4A0F-AA5A-288366F54DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B33C55-6D0B-4A0F-AA5A-288366F54DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B33C55-6D0B-4A0F-AA5A-288366F54DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B33C55-6D0B-4A0F-AA5A-288366F54DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1D6BD2-8422-4259-A57D-6B35E451426E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1D6BD2-8422-4259-A57D-6B35E451426E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1D6BD2-8422-4259-A57D-6B35E451426E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1D6BD2-8422-4259-A57D-6B35E451426E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855A0C1A-A25C-46E0-AA01-3FFF9D58171B}
+	EndGlobalSection
+EndGlobal
